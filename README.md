@@ -23,3 +23,10 @@ The simulation uses a dataset comprising images of the road alongside correspond
 
 6. **Real-Time Prediction**: Once trained, the model can process live images from the car's camera, predict the steering angle, and send control commands to steer the vehicle.
    
+![image](https://github.com/user-attachments/assets/d1ce7df4-0c87-4f5e-9817-e0fa21330159)
+
+![image](https://github.com/user-attachments/assets/6b3b1f5e-5883-4d1d-b6ad-55fbba3313b4)
+
+
+![left_2024_10_04_18_12_39_951](https://github.com/user-attachments/assets/2ed0507f-121c-4986-8815-9617411e67f5)
+
